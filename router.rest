@@ -1,0 +1,17 @@
+GET  http://localhost:3000/susbrcriber
+
+###
+
+
+GET http://localhost:3000/susbrcriber/6348e2f66ccbdedcab2d82a7
+
+###
+POST http://localhost:3000/susbrcriber
+Content-Type: application/json
+
+{
+    "name":"ALI",
+    "subcribertochanel":"Web based"
+}
+
+ 
